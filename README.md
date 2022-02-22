@@ -23,12 +23,14 @@ for obj in objList:
     rs.ObjectName(obj, layerName)   
     
     
-Run the script (tools>pythonscript>edit)
-copy/paste/selectthecode/play
-select the object to rename
+Run the script (tools>pythonscript>edit)    
+copy/paste/selectthecode/play   
+select the object to rename     
 enter
 
-You can create a button with the code: hold ctrl and duplicate a single button on a toolbar
+
+
+You can create a button with the code: hold ctrl and duplicate a single button on a toolbar     
 hold shift and right click on the new button delete the current script and replace it with this (sublayer)
 
 ! _-RunPythonScript (
