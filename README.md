@@ -1,6 +1,6 @@
 # RhinoRenameObjectsByLayerName
-Rhinoceros - Rename selected objects by their layer's name
-fond here: https://discourse.mcneel.com/t/renaming-objects-by-layer/33668/2
+Rhinoceros - Rename selected objects by their layer's name  
+found here: https://discourse.mcneel.com/t/renaming-objects-by-layer/33668/2
 
 
 Rename by Layer::sublayer
