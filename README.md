@@ -6,9 +6,9 @@ Rename by Layer::sublayer
 
 import rhinoscriptsyntax as rs  
 objList = rs.GetObjects("Select objects to name") 
-for obj in objList: 
-    layer = rs.ObjectLayer(obj) 
-    layerName = rs.LayerName(layer) 
+for obj in objList:     
+    layer = rs.ObjectLayer(obj)     
+    layerName = rs.LayerName(layer)     
     rs.ObjectName(obj, layerName)   
     
     
